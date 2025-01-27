@@ -1,4 +1,4 @@
-package com.ibm.stream;
+package com.self.stream;
 
 import java.util.Arrays;
 import java.util.List;

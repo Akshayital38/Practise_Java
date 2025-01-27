@@ -1,4 +1,4 @@
-package com.ibm.threads;
+package com.self.threads;
 
 class D implements Runnable{
 

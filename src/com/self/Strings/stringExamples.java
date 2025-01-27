@@ -1,4 +1,4 @@
-package com.ibm.Strings;
+package com.self.Strings;
 
 public class stringExamples {
 

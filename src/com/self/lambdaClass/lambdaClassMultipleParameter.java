@@ -1,4 +1,4 @@
-package com.ibm.lambdaClass;
+package com.self.lambdaClass;
 
 interface Functional {
     int operation(int a, int b);

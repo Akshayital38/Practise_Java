@@ -1,4 +1,4 @@
-package com.ibm.lambdaClass;
+package com.self.lambdaClass;
 
 import java.util.ArrayList;
 

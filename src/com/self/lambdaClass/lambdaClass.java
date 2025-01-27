@@ -1,4 +1,4 @@
-package com.ibm.lambdaClass;
+package com.self.lambdaClass;
 
 
 interface ZeroParameter {

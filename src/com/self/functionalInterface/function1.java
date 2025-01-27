@@ -1,4 +1,4 @@
-package com.ibm.functionalInterface;
+package com.self.functionalInterface;
 
 @FunctionalInterface
 interface Square {
